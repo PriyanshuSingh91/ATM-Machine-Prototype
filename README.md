@@ -34,4 +34,4 @@ This is a console-based ATM Banking System developed in C++. The project include
 1. Clone the repository or download the ZIP.
 2. Open main.cpp in your C++ IDE.
 3. Compile and run the file.
-4. Use the following PIN when prompted:
+4. Use the following PIN when prompted:12345
